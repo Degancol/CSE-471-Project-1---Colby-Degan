@@ -36,12 +36,19 @@ Where:
 "note" is the pitch of the note
 
 "ADSR" describes how the volume of the note changes over time
+
       The first value is the attack (time to reach full volume)
+      
       The second value is the decay (time to fall from peak to sustain level)
+      
       The third value is the sustain (sustain level as a fraction of the maximum amplitude)
+      
       The fourth value is the release (time to fade out after the key is released)
+      
 "vibrato" defines the vibrato effect (periodic pitch modulation)
+
       The first value is the rate of the vibrato
+      
       The second value is the frequency of the vibrato
   
 
