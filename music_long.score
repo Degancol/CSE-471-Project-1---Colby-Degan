@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Music composed with the aid of ChatGPT -->
+<score bpm="120" beatspermeasure="4">
+
+   <instrument instrument="AdditiveSynth">
+
+      <!-- Measures 1–2: Dreamy arpeggio intro -->
+      <note measure="1" beat="1" duration="1" amplitudes="1 .7 .5" note="C5" ADSR=".1 .1 .8 .3" vibrato="2.0 0.6"/>
+      <note measure="1" beat="1" duration="2" amplitudes="0.8 .6 .4" note="E4" ADSR=".2 .1 .9 .4" vibrato="1.8 0.5"/>
+      <note measure="1" beat="1.5" duration="0.5" amplitudes="1 .7 .5" note="G5" ADSR=".05 .05 1 .2" vibrato="2.4 0.7"/>
+      <note measure="1" beat="2" duration="1" amplitudes="0.9 .8 .5" note="B4" ADSR=".1 .1 .8 .3" vibrato="2.2 0.8"/>
+      <note measure="1" beat="3" duration="1" amplitudes="1 .8 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="1.9 0.6"/>
+      <note measure="1" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.3 0.7"/>
+
+      <note measure="2" beat="1" duration="1" amplitudes="0.9 .7 .5" note="A4" ADSR=".1 .1 .9 .4" vibrato="2.1 0.6"/>
+      <note measure="2" beat="1" duration="2" amplitudes="1 .7 .5" note="F5" ADSR=".05 .1 1 .2" vibrato="2.5 0.8"/>
+      <note measure="2" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="C6" ADSR=".05 .05 1 .2" vibrato="2.7 0.9"/>
+      <note measure="2" beat="3" duration="1" amplitudes="0.8 .6 .4" note="E5" ADSR=".1 .1 .9 .3" vibrato="2.0 0.7"/>
+      <note measure="2" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="D5" ADSR=".05 .05 1 .2" vibrato="2.8 0.9"/>
+
+      <!-- Measures 3–4: Add harmony and rhythmic layering -->
+      <note measure="3" beat="1" duration="2" amplitudes="1 .8 .5" note="F4" ADSR=".2 .1 .8 .4" vibrato="2.0 0.5"/>
+      <note measure="3" beat="1" duration="1" amplitudes="1 .9 .6" note="A4" ADSR=".1 .1 .9 .3" vibrato="2.2 0.7"/>
+      <note measure="3" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.5 0.8"/>
+      <note measure="3" beat="2" duration="1" amplitudes="0.9 .7 .5" note="E5" ADSR=".1 .1 .9 .3" vibrato="2.6 0.7"/>
+      <note measure="3" beat="3" duration="2" amplitudes="1 .8 .5" note="G5" ADSR=".05 .1 1 .3" vibrato="2.3 0.8"/>
+      <note measure="3" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="2.7 0.9"/>
+
+      <note measure="4" beat="1" duration="1" amplitudes="1 .8 .6" note="E5" ADSR=".1 .1 .8 .3" vibrato="2.0 0.6"/>
+      <note measure="4" beat="1" duration="2" amplitudes="0.9 .7 .5" note="C5" ADSR=".1 .1 .9 .4" vibrato="2.1 0.5"/>
+      <note measure="4" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="G5" ADSR=".05 .05 1 .2" vibrato="2.4 0.7"/>
+      <note measure="4" beat="3" duration="1" amplitudes="1 .8 .5" note="B4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.6"/>
+      <note measure="4" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="C6" ADSR=".05 .05 1 .2" vibrato="2.8 0.9"/>
+
+      <!-- Measures 5–8: Build-up with rhythmic motion and layered harmony -->
+      <note measure="5" beat="1" duration="2" amplitudes="1 .8 .5" note="A4" ADSR=".15 .1 .8 .3" vibrato="2.2 0.6"/>
+      <note measure="5" beat="1" duration="1" amplitudes="1 .8 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="2.5 0.8"/>
+      <note measure="5" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.6 0.7"/>
+      <note measure="5" beat="2" duration="1" amplitudes="1 .8 .6" note="A5" ADSR=".05 .1 1 .3" vibrato="2.7 0.9"/>
+      <note measure="5" beat="3" duration="2" amplitudes="1 .8 .5" note="G5" ADSR=".1 .1 .9 .3" vibrato="2.4 0.8"/>
+      <note measure="5" beat="3" duration="1" amplitudes="1 .9 .6" note="E5" ADSR=".1 .1 .8 .3" vibrato="2.3 0.6"/>
+      <note measure="5" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.1 0.7"/>
+
+      <note measure="6" beat="1" duration="2" amplitudes="1 .8 .5" note="F4" ADSR=".15 .1 .9 .3" vibrato="2.0 0.5"/>
+      <note measure="6" beat="1" duration="1" amplitudes="1 .8 .6" note="A4" ADSR=".05 .1 1 .3" vibrato="2.2 0.6"/>
+      <note measure="6" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.5 0.8"/>
+      <note measure="6" beat="2" duration="1" amplitudes="1 .8 .6" note="E5" ADSR=".05 .1 1 .3" vibrato="2.6 0.9"/>
+      <note measure="6" beat="3" duration="2" amplitudes="1 .8 .5" note="D5" ADSR=".1 .1 .9 .3" vibrato="2.3 0.8"/>
+      <note measure="6" beat="3" duration="1" amplitudes="1 .9 .6" note="F5" ADSR=".1 .1 .8 .3" vibrato="2.1 0.7"/>
+      <note measure="6" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="2.7 0.9"/>
+
+      <note measure="7" beat="1" duration="1" amplitudes="1 .8 .6" note="G4" ADSR=".15 .1 .8 .3" vibrato="2.0 0.6"/>
+      <note measure="7" beat="1" duration="2" amplitudes="1 .8 .5" note="B4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.5"/>
+      <note measure="7" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="D5" ADSR=".05 .05 1 .2" vibrato="2.5 0.7"/>
+      <note measure="7" beat="2" duration="1" amplitudes="1 .8 .6" note="G5" ADSR=".05 .1 1 .3" vibrato="2.8 0.9"/>
+      <note measure="7" beat="3" duration="2" amplitudes="1 .8 .5" note="F5" ADSR=".1 .1 .8 .3" vibrato="2.4 0.7"/>
+      <note measure="7" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.2 0.8"/>
+      <note measure="7" beat="4" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.0 0.6"/>
+
+      <note measure="8" beat="1" duration="2" amplitudes="1 .8 .5" note="C4" ADSR=".15 .1 .9 .4" vibrato="2.1 0.5"/>
+      <note measure="8" beat="1" duration="1" amplitudes="1 .9 .6" note="E4" ADSR=".1 .1 .8 .3" vibrato="2.3 0.7"/>
+      <note measure="8" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="G4" ADSR=".05 .05 1 .2" vibrato="2.5 0.9"/>
+      <note measure="8" beat="2" duration="1" amplitudes="1 .8 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="2.7 0.8"/>
+      <note measure="8" beat="3" duration="2" amplitudes="1 .8 .5" note="B4" ADSR=".1 .1 .9 .3" vibrato="2.2 0.7"/>
+      <note measure="8" beat="3" duration="1" amplitudes="1 .9 .6" note="E5" ADSR=".1 .1 .8 .3" vibrato="2.4 0.6"/>
+      <note measure="8" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="G5" ADSR=".05 .05 1 .2" vibrato="2.8 0.9"/>
+
+      <!-- Measures 9–12: Emergent lead melody over arpeggiated harmony -->
+
+      <!-- Measure 9 -->
+      <note measure="9" beat="1" duration="2" amplitudes="1 .8 .5" note="F4" ADSR=".15 .1 .8 .3" vibrato="2.0 0.5"/>
+      <note measure="9" beat="1" duration="1" amplitudes="1 .8 .6" note="A4" ADSR=".05 .1 1 .3" vibrato="2.3 0.7"/>
+      <note measure="9" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.5 0.8"/>
+      <note measure="9" beat="2" duration="1" amplitudes="1 .8 .6" note="E5" ADSR=".05 .1 1 .3" vibrato="2.6 0.9"/>
+      <!-- Lead starts -->
+      <note measure="9" beat="2.5" duration="1.5" amplitudes="1 .9 .7" note="G5" ADSR=".1 .1 .9 .4" vibrato="3.0 0.9"/>
+      <note measure="9" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="3.2 1.0"/>
+
+      <!-- Measure 10 -->
+      <note measure="10" beat="1" duration="2" amplitudes="1 .8 .5" note="G4" ADSR=".15 .1 .8 .3" vibrato="2.1 0.5"/>
+      <note measure="10" beat="1" duration="1" amplitudes="1 .8 .6" note="B4" ADSR=".05 .1 1 .3" vibrato="2.4 0.7"/>
+      <note measure="10" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="D5" ADSR=".05 .05 1 .2" vibrato="2.7 0.8"/>
+      <note measure="10" beat="2" duration="1" amplitudes="1 .8 .6" note="G5" ADSR=".05 .1 1 .3" vibrato="2.9 0.9"/>
+      <note measure="10" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="3.1 1.0"/>
+      <note measure="10" beat="3" duration="1" amplitudes="1 .9 .7" note="B5" ADSR=".1 .1 .9 .4" vibrato="3.3 1.1"/>
+      <note measure="10" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="C6" ADSR=".05 .05 1 .2" vibrato="3.5 0.8"/>
+
+      <!-- Measure 11 -->
+      <note measure="11" beat="1" duration="2" amplitudes="1 .8 .5" note="E4" ADSR=".15 .1 .8 .3" vibrato="2.0 0.6"/>
+      <note measure="11" beat="1" duration="1" amplitudes="1 .8 .6" note="G4" ADSR=".05 .1 1 .3" vibrato="2.2 0.7"/>
+      <note measure="11" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.5 0.9"/>
+      <note measure="11" beat="2" duration="1" amplitudes="1 .8 .6" note="E5" ADSR=".05 .1 1 .3" vibrato="2.7 1.0"/>
+      <!-- Melody continues -->
+      <note measure="11" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="G5" ADSR=".05 .05 1 .2" vibrato="3.0 1.0"/>
+      <note measure="11" beat="3" duration="1.5" amplitudes="1 .9 .7" note="F5" ADSR=".1 .1 .9 .4" vibrato="2.8 1.0"/>
+      <note measure="11" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.5 0.9"/>
+
+      <!-- Measure 12 -->
+      <note measure="12" beat="1" duration="2" amplitudes="1 .8 .5" note="D4" ADSR=".15 .1 .8 .3" vibrato="2.0 0.6"/>
+      <note measure="12" beat="1" duration="1" amplitudes="1 .8 .6" note="F4" ADSR=".05 .1 1 .3" vibrato="2.3 0.7"/>
+      <note measure="12" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="A4" ADSR=".05 .05 1 .2" vibrato="2.5 0.8"/>
+      <note measure="12" beat="2" duration="1" amplitudes="1 .8 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="2.6 0.9"/>
+      <!-- Melody peaks -->
+      <note measure="12" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="D5" ADSR=".05 .05 1 .2" vibrato="2.8 1.0"/>
+      <note measure="12" beat="3" duration="2" amplitudes="1 .9 .7" note="G5" ADSR=".1 .1 .9 .4" vibrato="3.0 1.2"/>
+      <note measure="12" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="F5" ADSR=".05 .05 1 .2" vibrato="3.2 0.9"/>
+
+      <!-- Measures 13–16: Bridge section — fuller chords and harmonic lift -->
+
+      <!-- Measure 13 -->
+      <note measure="13" beat="1" duration="4" amplitudes="1 .8 .5" note="C4" ADSR=".2 .15 .8 .4" vibrato="2.0 0.5"/>
+      <note measure="13" beat="1" duration="2" amplitudes="1 .8 .6" note="E4" ADSR=".1 .1 .9 .3" vibrato="2.2 0.6"/>
+      <note measure="13" beat="1" duration="1" amplitudes="1 .9 .6" note="G4" ADSR=".05 .1 1 .3" vibrato="2.5 0.8"/>
+      <note measure="13" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.7 0.9"/>
+      <note measure="13" beat="2" duration="2" amplitudes="1 .8 .5" note="E5" ADSR=".1 .1 .9 .3" vibrato="2.9 0.8"/>
+      <note measure="13" beat="3" duration="1" amplitudes="1 .8 .6" note="G5" ADSR=".05 .1 1 .3" vibrato="3.0 0.9"/>
+      <note measure="13" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="C6" ADSR=".05 .05 1 .2" vibrato="3.3 1.0"/>
+
+      <!-- Measure 14 -->
+      <note measure="14" beat="1" duration="4" amplitudes="1 .8 .5" note="A3" ADSR=".2 .15 .8 .4" vibrato="2.1 0.5"/>
+      <note measure="14" beat="1" duration="2" amplitudes="1 .8 .6" note="D4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.6"/>
+      <note measure="14" beat="1" duration="1" amplitudes="1 .9 .6" note="F4" ADSR=".05 .1 1 .3" vibrato="2.5 0.7"/>
+      <note measure="14" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="A4" ADSR=".05 .05 1 .2" vibrato="2.7 0.8"/>
+      <note measure="14" beat="2" duration="1.5" amplitudes="1 .8 .6" note="D5" ADSR=".1 .1 .9 .3" vibrato="2.9 0.9"/>
+      <note measure="14" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="F5" ADSR=".05 .05 1 .2" vibrato="3.1 1.0"/>
+      <note measure="14" beat="4" duration="1" amplitudes="1 .9 .7" note="A5" ADSR=".1 .1 .9 .4" vibrato="3.3 1.1"/>
+
+      <!-- Measure 15 -->
+      <note measure="15" beat="1" duration="4" amplitudes="1 .8 .5" note="F4" ADSR=".2 .15 .8 .4" vibrato="2.0 0.6"/>
+      <note measure="15" beat="1" duration="2" amplitudes="1 .8 .6" note="A4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.7"/>
+      <note measure="15" beat="1" duration="1" amplitudes="1 .9 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="2.5 0.9"/>
+      <note measure="15" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.7 1.0"/>
+      <note measure="15" beat="2" duration="2" amplitudes="1 .8 .6" note="G5" ADSR=".1 .1 .9 .3" vibrato="2.8 1.0"/>
+      <note measure="15" beat="3" duration="1" amplitudes="1 .9 .6" note="A5" ADSR=".1 .1 .8 .3" vibrato="3.0 1.1"/>
+      <note measure="15" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="C6" ADSR=".05 .05 1 .2" vibrato="3.2 1.0"/>
+
+      <!-- Measure 16 -->
+      <note measure="16" beat="1" duration="4" amplitudes="1 .8 .5" note="G4" ADSR=".2 .15 .8 .4" vibrato="2.1 0.6"/>
+      <note measure="16" beat="1" duration="2" amplitudes="1 .8 .6" note="B4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.8"/>
+      <note measure="16" beat="1" duration="1" amplitudes="1 .9 .6" note="D5" ADSR=".05 .1 1 .3" vibrato="2.6 0.9"/>
+      <note measure="16" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="F5" ADSR=".05 .05 1 .2" vibrato="2.8 1.0"/>
+      <note measure="16" beat="2" duration="2" amplitudes="1 .8 .6" note="A5" ADSR=".1 .1 .9 .3" vibrato="3.0 1.1"/>
+      <note measure="16" beat="3" duration="1.5" amplitudes="1 .9 .7" note="G5" ADSR=".1 .1 .9 .3" vibrato="3.2 1.0"/>
+      <note measure="16" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.9 0.9"/>
+
+      <!-- Measures 17–20: Refrain section — bright and open melody with rich layering -->
+
+      <!-- Measure 17 -->
+      <note measure="17" beat="1" duration="4" amplitudes="1 .8 .5" note="C4" ADSR=".2 .15 .8 .4" vibrato="2.0 0.5"/>
+      <note measure="17" beat="1" duration="2" amplitudes="1 .8 .6" note="E4" ADSR=".1 .1 .9 .3" vibrato="2.2 0.6"/>
+      <note measure="17" beat="1" duration="1" amplitudes="1 .9 .6" note="G4" ADSR=".05 .1 1 .3" vibrato="2.4 0.8"/>
+      <note measure="17" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.6 0.9"/>
+      <!-- Lead line rising -->
+      <note measure="17" beat="2" duration="0.5" amplitudes="1 .8 .6" note="D5" ADSR=".05 .05 1 .2" vibrato="2.7 0.9"/>
+      <note measure="17" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.9 1.0"/>
+      <note measure="17" beat="3" duration="0.5" amplitudes="1 .8 .6" note="G5" ADSR=".05 .05 1 .2" vibrato="3.0 1.1"/>
+      <note measure="17" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="3.2 1.2"/>
+      <note measure="17" beat="4" duration="0.5" amplitudes="1 .9 .7" note="C6" ADSR=".1 .1 .9 .4" vibrato="3.5 1.3"/>
+
+      <!-- Measure 18 -->
+      <note measure="18" beat="1" duration="4" amplitudes="1 .8 .5" note="A3" ADSR=".2 .15 .8 .4" vibrato="2.0 0.6"/>
+      <note measure="18" beat="1" duration="2" amplitudes="1 .8 .6" note="C4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.7"/>
+      <note measure="18" beat="1" duration="1" amplitudes="1 .9 .6" note="E4" ADSR=".05 .1 1 .3" vibrato="2.5 0.8"/>
+      <note measure="18" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="A4" ADSR=".05 .05 1 .2" vibrato="2.7 0.9"/>
+      <!-- Lead dancing upward -->
+      <note measure="18" beat="2" duration="1" amplitudes="1 .8 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="2.9 1.0"/>
+      <note measure="18" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="D5" ADSR=".05 .05 1 .2" vibrato="3.1 1.1"/>
+      <note measure="18" beat="3" duration="1" amplitudes="1 .9 .7" note="E5" ADSR=".1 .1 .9 .4" vibrato="3.3 1.2"/>
+      <note measure="18" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="G5" ADSR=".05 .05 1 .2" vibrato="3.5 1.0"/>
+
+      <!-- Measure 19 -->
+      <note measure="19" beat="1" duration="4" amplitudes="1 .8 .5" note="F4" ADSR=".2 .15 .8 .4" vibrato="2.1 0.6"/>
+      <note measure="19" beat="1" duration="2" amplitudes="1 .8 .6" note="A4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.8"/>
+      <note measure="19" beat="1" duration="1" amplitudes="1 .9 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="2.6 0.9"/>
+      <note measure="19" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.8 1.0"/>
+      <!-- Lead melody expands -->
+      <note measure="19" beat="2" duration="1" amplitudes="1 .8 .6" note="G5" ADSR=".05 .1 1 .3" vibrato="3.0 1.1"/>
+      <note measure="19" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="3.2 1.2"/>
+      <note measure="19" beat="3" duration="1.5" amplitudes="1 .9 .7" note="C6" ADSR=".1 .1 .9 .4" vibrato="3.4 1.3"/>
+      <note measure="19" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="B5" ADSR=".05 .05 1 .2" vibrato="3.1 1.0"/>
+
+      <!-- Measure 20 -->
+      <note measure="20" beat="1" duration="4" amplitudes="1 .8 .5" note="G4" ADSR=".2 .15 .8 .4" vibrato="2.0 0.6"/>
+      <note measure="20" beat="1" duration="2" amplitudes="1 .8 .6" note="B4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.8"/>
+      <note measure="20" beat="1" duration="1" amplitudes="1 .9 .6" note="D5" ADSR=".05 .1 1 .3" vibrato="2.5 0.9"/>
+      <note measure="20" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="F5" ADSR=".05 .05 1 .2" vibrato="2.7 1.0"/>
+      <!-- Melody resolves upward -->
+      <note measure="20" beat="2" duration="1" amplitudes="1 .8 .6" note="G5" ADSR=".05 .1 1 .3" vibrato="2.9 1.1"/>
+      <note measure="20" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="3.1 1.2"/>
+      <note measure="20" beat="3" duration="1.5" amplitudes="1 .9 .7" note="C6" ADSR=".1 .1 .9 .4" vibrato="3.3 1.3"/>
+      <note measure="20" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="D6" ADSR=".05 .05 1 .2" vibrato="3.5 1.0"/>
+
+      <!-- Measures 21–24: Refrain continuation — call and response between lead and harmony -->
+
+      <!-- Measure 21: Lead phrase ascends -->
+      <note measure="21" beat="1" duration="4" amplitudes="1 .8 .5" note="C4" ADSR=".2 .15 .8 .4" vibrato="2.0 0.5"/>
+      <note measure="21" beat="1" duration="2" amplitudes="1 .8 .6" note="E4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.6"/>
+      <note measure="21" beat="1" duration="1" amplitudes="1 .9 .6" note="G4" ADSR=".05 .1 1 .3" vibrato="2.5 0.8"/>
+      <note measure="21" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.7 0.9"/>
+      <note measure="21" beat="2" duration="1" amplitudes="1 .8 .6" note="D5" ADSR=".05 .1 1 .3" vibrato="2.9 1.0"/>
+      <note measure="21" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="3.0 1.1"/>
+      <note measure="21" beat="3" duration="1.5" amplitudes="1 .9 .7" note="G5" ADSR=".1 .1 .9 .4" vibrato="3.3 1.2"/>
+      <note measure="21" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="3.4 1.1"/>
+
+      <!-- Measure 22: Response phrase echoes down -->
+      <note measure="22" beat="1" duration="4" amplitudes="1 .8 .5" note="A3" ADSR=".2 .15 .8 .4" vibrato="2.1 0.6"/>
+      <note measure="22" beat="1" duration="2" amplitudes="1 .8 .6" note="C4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.7"/>
+      <note measure="22" beat="1" duration="1" amplitudes="1 .9 .6" note="E4" ADSR=".05 .1 1 .3" vibrato="2.5 0.8"/>
+      <note measure="22" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="A4" ADSR=".05 .05 1 .2" vibrato="2.6 0.9"/>
+      <!-- Echo melody -->
+      <note measure="22" beat="2" duration="1" amplitudes="1 .8 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="2.8 1.0"/>
+      <note measure="22" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="B4" ADSR=".05 .05 1 .2" vibrato="3.0 1.1"/>
+      <note measure="22" beat="3" duration="1" amplitudes="1 .9 .7" note="A4" ADSR=".1 .1 .9 .4" vibrato="3.2 1.2"/>
+      <note measure="22" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="G4" ADSR=".05 .05 1 .2" vibrato="3.3 1.0"/>
+
+      <!-- Measure 23: Lead climbs again -->
+      <note measure="23" beat="1" duration="4" amplitudes="1 .8 .5" note="F4" ADSR=".2 .15 .8 .4" vibrato="2.0 0.6"/>
+      <note measure="23" beat="1" duration="2" amplitudes="1 .8 .6" note="A4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.7"/>
+      <note measure="23" beat="1" duration="1" amplitudes="1 .9 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="2.5 0.9"/>
+      <note measure="23" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.7 1.0"/>
+      <note measure="23" beat="2" duration="0.5" amplitudes="1 .8 .6" note="F5" ADSR=".05 .05 1 .2" vibrato="2.9 1.1"/>
+      <note measure="23" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="G5" ADSR=".05 .05 1 .2" vibrato="3.1 1.2"/>
+      <note measure="23" beat="3" duration="1" amplitudes="1 .9 .7" note="A5" ADSR=".1 .1 .9 .4" vibrato="3.3 1.3"/>
+      <note measure="23" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="C6" ADSR=".05 .05 1 .2" vibrato="3.4 1.1"/>
+
+      <!-- Measure 24: Soft response — harmonic echo and gentle descent -->
+      <note measure="24" beat="1" duration="4" amplitudes="1 .8 .5" note="D4" ADSR=".2 .15 .8 .4" vibrato="2.1 0.6"/>
+      <note measure="24" beat="1" duration="2" amplitudes="1 .8 .6" note="F4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.7"/>
+      <note measure="24" beat="1" duration="1" amplitudes="1 .9 .6" note="A4" ADSR=".05 .1 1 .3" vibrato="2.5 0.8"/>
+      <note measure="24" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.6 0.9"/>
+      <note measure="24" beat="2" duration="1" amplitudes="1 .8 .6" note="D5" ADSR=".05 .1 1 .3" vibrato="2.8 1.0"/>
+      <note measure="24" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="3.0 1.1"/>
+      <note measure="24" beat="3" duration="2" amplitudes="1 .9 .7" note="F5" ADSR=".1 .1 .9 .4" vibrato="3.2 1.2"/>
+      <note measure="24" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="3.4 1.0"/>
+
+      <!-- Measures 25–28: Ambient interlude — slow harmonic textures and overlapping tones -->
+
+      <!-- Measure 25: Soft layered entry -->
+      <note measure="25" beat="1" duration="4" amplitudes="1 .7 .4" note="E4" ADSR=".3 .2 .7 .6" vibrato="1.8 0.5"/>
+      <note measure="25" beat="1" duration="4" amplitudes="1 .6 .3" note="A4" ADSR=".3 .2 .7 .5" vibrato="2.0 0.4"/>
+      <note measure="25" beat="1.5" duration="3.5" amplitudes="1 .8 .5" note="C5" ADSR=".2 .15 .8 .5" vibrato="2.3 0.6"/>
+      <note measure="25" beat="2" duration="2" amplitudes="1 .8 .6" note="E5" ADSR=".1 .1 .9 .3" vibrato="2.5 0.7"/>
+      <note measure="25" beat="3" duration="1" amplitudes="1 .8 .5" note="G5" ADSR=".1 .1 .8 .4" vibrato="2.7 0.8"/>
+      <note measure="25" beat="3.5" duration="0.5" amplitudes="1 .7 .5" note="A5" ADSR=".05 .05 1 .2" vibrato="2.9 0.9"/>
+
+      <!-- Measure 26: Expanding harmonic shimmer -->
+      <note measure="26" beat="1" duration="4" amplitudes="1 .7 .4" note="D4" ADSR=".3 .2 .7 .6" vibrato="1.9 0.5"/>
+      <note measure="26" beat="1" duration="4" amplitudes="1 .6 .3" note="G4" ADSR=".3 .2 .7 .5" vibrato="2.1 0.5"/>
+      <note measure="26" beat="1.5" duration="3.5" amplitudes="1 .8 .5" note="B4" ADSR=".2 .15 .8 .5" vibrato="2.4 0.6"/>
+      <note measure="26" beat="2" duration="2" amplitudes="1 .8 .6" note="D5" ADSR=".1 .1 .9 .3" vibrato="2.6 0.7"/>
+      <note measure="26" beat="3" duration="1" amplitudes="1 .8 .5" note="G5" ADSR=".1 .1 .8 .4" vibrato="2.8 0.8"/>
+      <note measure="26" beat="3.5" duration="0.5" amplitudes="1 .7 .5" note="B5" ADSR=".05 .05 1 .2" vibrato="3.0 0.9"/>
+
+      <!-- Measure 27: Floating harmonic suspension -->
+      <note measure="27" beat="1" duration="4" amplitudes="1 .7 .4" note="F4" ADSR=".3 .2 .7 .6" vibrato="1.7 0.6"/>
+      <note measure="27" beat="1" duration="4" amplitudes="1 .6 .3" note="A4" ADSR=".3 .2 .7 .5" vibrato="2.0 0.5"/>
+      <note measure="27" beat="1.5" duration="3.5" amplitudes="1 .8 .5" note="C5" ADSR=".2 .15 .8 .5" vibrato="2.2 0.6"/>
+      <note measure="27" beat="2" duration="2" amplitudes="1 .8 .6" note="E5" ADSR=".1 .1 .9 .3" vibrato="2.4 0.7"/>
+      <note measure="27" beat="3" duration="1.5" amplitudes="1 .8 .5" note="G5" ADSR=".1 .1 .8 .4" vibrato="2.7 0.8"/>
+      <note measure="27" beat="3.5" duration="0.5" amplitudes="1 .7 .5" note="A5" ADSR=".05 .05 1 .2" vibrato="2.9 0.9"/>
+
+      <!-- Measure 28: Slow descent and resolution into warmth -->
+      <note measure="28" beat="1" duration="4" amplitudes="1 .7 .4" note="C4" ADSR=".3 .2 .7 .6" vibrato="1.6 0.4"/>
+      <note measure="28" beat="1" duration="4" amplitudes="1 .6 .3" note="E4" ADSR=".3 .2 .7 .5" vibrato="1.9 0.5"/>
+      <note measure="28" beat="1.5" duration="3.5" amplitudes="1 .8 .5" note="G4" ADSR=".2 .15 .8 .5" vibrato="2.1 0.6"/>
+      <note measure="28" beat="2" duration="2" amplitudes="1 .8 .6" note="C5" ADSR=".1 .1 .9 .3" vibrato="2.4 0.7"/>
+      <note measure="28" beat="3" duration="1.5" amplitudes="1 .8 .5" note="E5" ADSR=".1 .1 .8 .4" vibrato="2.6 0.8"/>
+      <note measure="28" beat="3.5" duration="0.5" amplitudes="1 .7 .5" note="G5" ADSR=".05 .05 1 .2" vibrato="2.8 0.9"/>
+
+      <!-- Measures 29–32: Rebuild section — rhythmic layering and harmonic lift -->
+
+      <!-- Measure 29: Arpeggio rising from calm -->
+      <note measure="29" beat="1" duration="4" amplitudes="1 .8 .5" note="C4" ADSR=".2 .15 .8 .4" vibrato="2.0 0.5"/>
+      <note measure="29" beat="1" duration="2" amplitudes="1 .8 .6" note="E4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.6"/>
+      <note measure="29" beat="1" duration="1" amplitudes="1 .9 .6" note="G4" ADSR=".05 .1 1 .3" vibrato="2.5 0.8"/>
+      <note measure="29" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.7 0.9"/>
+      <note measure="29" beat="2" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.8 1.0"/>
+      <note measure="29" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="G5" ADSR=".05 .05 1 .2" vibrato="3.0 1.1"/>
+      <note measure="29" beat="3" duration="1.5" amplitudes="1 .9 .7" note="C6" ADSR=".1 .1 .9 .4" vibrato="3.3 1.2"/>
+      <note measure="29" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="E6" ADSR=".05 .05 1 .2" vibrato="3.4 1.1"/>
+
+      <!-- Measure 30: Layered rhythmic build -->
+      <note measure="30" beat="1" duration="4" amplitudes="1 .8 .5" note="A3" ADSR=".2 .15 .8 .4" vibrato="1.9 0.6"/>
+      <note measure="30" beat="1" duration="2" amplitudes="1 .8 .6" note="C4" ADSR=".1 .1 .9 .3" vibrato="2.2 0.7"/>
+      <note measure="30" beat="1" duration="1" amplitudes="1 .9 .6" note="E4" ADSR=".05 .1 1 .3" vibrato="2.4 0.8"/>
+      <note measure="30" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="A4" ADSR=".05 .05 1 .2" vibrato="2.6 0.9"/>
+      <note measure="30" beat="2" duration="1" amplitudes="1 .8 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="2.8 1.0"/>
+      <note measure="30" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="3.0 1.1"/>
+      <note measure="30" beat="3" duration="1" amplitudes="1 .9 .7" note="A5" ADSR=".1 .1 .9 .4" vibrato="3.2 1.2"/>
+      <note measure="30" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="C6" ADSR=".05 .05 1 .2" vibrato="3.4 1.0"/>
+
+      <!-- Measure 31: Intensifying with harmonic layering -->
+      <note measure="31" beat="1" duration="4" amplitudes="1 .8 .5" note="F4" ADSR=".2 .15 .8 .4" vibrato="2.0 0.6"/>
+      <note measure="31" beat="1" duration="2" amplitudes="1 .8 .6" note="A4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.7"/>
+      <note measure="31" beat="1" duration="1" amplitudes="1 .9 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="2.6 0.9"/>
+      <note measure="31" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.8 1.0"/>
+      <note measure="31" beat="2" duration="1" amplitudes="1 .8 .6" note="F5" ADSR=".05 .1 1 .3" vibrato="3.0 1.1"/>
+      <note measure="31" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="3.1 1.0"/>
+      <note measure="31" beat="3" duration="1" amplitudes="1 .9 .7" note="C6" ADSR=".1 .1 .9 .4" vibrato="3.3 1.2"/>
+      <note measure="31" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="E6" ADSR=".05 .05 1 .2" vibrato="3.4 1.1"/>
+
+      <!-- Measure 32: Rhythmic pulse and harmonic lift toward climax -->
+      <note measure="32" beat="1" duration="4" amplitudes="1 .8 .5" note="G4" ADSR=".2 .15 .8 .4" vibrato="2.1 0.6"/>
+      <note measure="32" beat="1" duration="2" amplitudes="1 .8 .6" note="B4" ADSR=".1 .1 .9 .3" vibrato="2.3 0.7"/>
+      <note measure="32" beat="1" duration="1" amplitudes="1 .9 .6" note="D5" ADSR=".05 .1 1 .3" vibrato="2.5 0.8"/>
+      <note measure="32" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="G5" ADSR=".05 .05 1 .2" vibrato="2.7 0.9"/>
+      <note measure="32" beat="2" duration="1" amplitudes="1 .8 .6" note="A5" ADSR=".05 .1 1 .3" vibrato="2.9 1.0"/>
+      <note measure="32" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="B5" ADSR=".05 .05 1 .2" vibrato="3.1 1.1"/>
+      <note measure="32" beat="3" duration="1.5" amplitudes="1 .9 .7" note="D6" ADSR=".1 .1 .9 .4" vibrato="3.3 1.2"/>
+      <note measure="32" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="F6" ADSR=".05 .05 1 .2" vibrato="3.5 1.0"/>
+
+      <!-- Measures 33–36: Climax — full texture, rhythmic drive, and harmonic saturation -->
+
+      <!-- Measure 33: Expanding into power -->
+      <note measure="33" beat="1" duration="4" amplitudes="1 .9 .6" note="C4" ADSR=".2 .15 .9 .5" vibrato="2.0 0.6"/>
+      <note measure="33" beat="1" duration="4" amplitudes="1 .8 .5" note="E4" ADSR=".2 .15 .8 .5" vibrato="2.2 0.6"/>
+      <note measure="33" beat="1" duration="4" amplitudes="1 .8 .5" note="G4" ADSR=".2 .15 .8 .4" vibrato="2.4 0.7"/>
+      <note measure="33" beat="1" duration="1" amplitudes="1 .9 .6" note="C5" ADSR=".05 .1 1 .3" vibrato="2.6 0.9"/>
+      <note measure="33" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.8 1.0"/>
+      <note measure="33" beat="2" duration="1" amplitudes="1 .8 .6" note="G5" ADSR=".05 .1 1 .3" vibrato="3.0 1.1"/>
+      <note measure="33" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="C6" ADSR=".05 .05 1 .2" vibrato="3.2 1.2"/>
+      <note measure="33" beat="3" duration="1.5" amplitudes="1 .9 .7" note="E6" ADSR=".1 .1 .9 .4" vibrato="3.4 1.3"/>
+      <note measure="33" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="G6" ADSR=".05 .05 1 .2" vibrato="3.5 1.1"/>
+
+      <!-- Measure 34: Syncopated accent and harmonic surge -->
+      <note measure="34" beat="1" duration="4" amplitudes="1 .9 .6" note="A3" ADSR=".2 .15 .9 .5" vibrato="2.1 0.6"/>
+      <note measure="34" beat="1" duration="4" amplitudes="1 .8 .5" note="C4" ADSR=".2 .15 .8 .5" vibrato="2.3 0.6"/>
+      <note measure="34" beat="1" duration="4" amplitudes="1 .8 .5" note="E4" ADSR=".2 .15 .8 .4" vibrato="2.5 0.7"/>
+      <note measure="34" beat="1" duration="1" amplitudes="1 .9 .6" note="A4" ADSR=".05 .1 1 .3" vibrato="2.7 0.8"/>
+      <note measure="34" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="C5" ADSR=".05 .05 1 .2" vibrato="2.9 0.9"/>
+      <note measure="34" beat="2" duration="1" amplitudes="1 .8 .6" note="E5" ADSR=".05 .1 1 .3" vibrato="3.1 1.0"/>
+      <note measure="34" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="3.3 1.1"/>
+      <note measure="34" beat="3" duration="1.5" amplitudes="1 .9 .7" note="C6" ADSR=".1 .1 .9 .4" vibrato="3.5 1.2"/>
+      <note measure="34" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="E6" ADSR=".05 .05 1 .2" vibrato="3.6 1.0"/>
+
+      <!-- Measure 35: Wide chord voicings and motion in both registers -->
+      <note measure="35" beat="1" duration="4" amplitudes="1 .9 .6" note="F3" ADSR=".2 .15 .9 .5" vibrato="2.0 0.7"/>
+      <note measure="35" beat="1" duration="4" amplitudes="1 .8 .5" note="A3" ADSR=".2 .15 .8 .5" vibrato="2.2 0.6"/>
+      <note measure="35" beat="1" duration="4" amplitudes="1 .8 .5" note="C4" ADSR=".2 .15 .8 .4" vibrato="2.4 0.6"/>
+      <note measure="35" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.6 0.9"/>
+      <note measure="35" beat="2" duration="0.5" amplitudes="1 .8 .6" note="F5" ADSR=".05 .05 1 .2" vibrato="2.8 1.0"/>
+      <note measure="35" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="3.0 1.1"/>
+      <note measure="35" beat="3" duration="1" amplitudes="1 .9 .7" note="C6" ADSR=".1 .1 .9 .4" vibrato="3.3 1.2"/>
+      <note measure="35" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="E6" ADSR=".05 .05 1 .2" vibrato="3.4 1.0"/>
+
+      <!-- Measure 36: Peak release — bright harmonic wave -->
+      <note measure="36" beat="1" duration="4" amplitudes="1 .9 .6" note="G3" ADSR=".2 .15 .9 .5" vibrato="2.0 0.7"/>
+      <note measure="36" beat="1" duration="4" amplitudes="1 .8 .5" note="B3" ADSR=".2 .15 .8 .5" vibrato="2.2 0.6"/>
+      <note measure="36" beat="1" duration="4" amplitudes="1 .8 .5" note="D4" ADSR=".2 .15 .8 .4" vibrato="2.4 0.6"/>
+      <note measure="36" beat="1.5" duration="0.5" amplitudes="1 .8 .6" note="G5" ADSR=".05 .05 1 .2" vibrato="2.7 0.9"/>
+      <note measure="36" beat="2" duration="0.5" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="2.9 1.0"/>
+      <note measure="36" beat="2.5" duration="0.5" amplitudes="1 .8 .6" note="B5" ADSR=".05 .05 1 .2" vibrato="3.1 1.1"/>
+      <note measure="36" beat="3" duration="1" amplitudes="1 .9 .7" note="D6" ADSR=".1 .1 .9 .4" vibrato="3.3 1.2"/>
+      <note measure="36" beat="3.5" duration="0.5" amplitudes="1 .8 .6" note="G6" ADSR=".05 .05 1 .2" vibrato="3.5 1.0"/>
+
+      <!-- Measures 37–40: Conclusion — slow fade and harmonic resolution -->
+
+      <!-- Measure 37: Soft descent from the climax -->
+      <note measure="37" beat="1" duration="4" amplitudes="1 .8 .6" note="E4" ADSR=".3 .2 .8 .8" vibrato="1.8 0.5"/>
+      <note measure="37" beat="1" duration="4" amplitudes="1 .7 .5" note="G4" ADSR=".3 .2 .8 .8" vibrato="2.0 0.6"/>
+      <note measure="37" beat="1" duration="4" amplitudes="1 .6 .4" note="B4" ADSR=".3 .2 .8 .8" vibrato="2.2 0.5"/>
+      <note measure="37" beat="3" duration="2" amplitudes="1 .7 .5" note="E5" ADSR=".1 .3 .7 .5" vibrato="2.3 0.8"/>
+
+      <!-- Measure 38: Gentle harmonic shift -->
+      <note measure="38" beat="1" duration="4" amplitudes="1 .7 .5" note="C4" ADSR=".3 .2 .7 .7" vibrato="1.9 0.5"/>
+      <note measure="38" beat="1" duration="4" amplitudes="1 .6 .4" note="E4" ADSR=".3 .2 .7 .7" vibrato="2.1 0.5"/>
+      <note measure="38" beat="1" duration="4" amplitudes="1 .6 .4" note="A4" ADSR=".3 .2 .7 .7" vibrato="2.3 0.6"/>
+      <note measure="38" beat="2" duration="2" amplitudes="1 .7 .5" note="C5" ADSR=".1 .3 .6 .5" vibrato="2.4 0.7"/>
+
+      <!-- Measure 39: Suspension and airy openness -->
+      <note measure="39" beat="1" duration="4" amplitudes="1 .6 .4" note="D4" ADSR=".4 .2 .6 1.0" vibrato="1.7 0.4"/>
+      <note measure="39" beat="1" duration="4" amplitudes="1 .5 .3" note="G4" ADSR=".4 .2 .6 1.0" vibrato="1.9 0.5"/>
+      <note measure="39" beat="1" duration="4" amplitudes="1 .5 .3" note="A4" ADSR=".4 .2 .6 1.0" vibrato="2.1 0.6"/>
+      <note measure="39" beat="3" duration="2" amplitudes="1 .6 .4" note="D5" ADSR=".2 .3 .7 .7" vibrato="2.3 0.7"/>
+
+      <!-- Measure 40: Final cadence and fade to silence -->
+      <note measure="40" beat="1" duration="4" amplitudes="1 .6 .3" note="C4" ADSR=".5 .3 .5 1.5" vibrato="1.5 0.3"/>
+      <note measure="40" beat="1" duration="4" amplitudes="1 .5 .3" note="E4" ADSR=".5 .3 .5 1.5" vibrato="1.7 0.3"/>
+      <note measure="40" beat="1" duration="4" amplitudes="1 .4 .2" note="G4" ADSR=".5 .3 .5 1.5" vibrato="1.9 0.2"/>
+      <note measure="40" beat="3" duration="2" amplitudes="1 .3 .2" note="C5" ADSR=".3 .5 .4 2.0" vibrato="2.0 0.2"/>
+
+   </instrument>
+
+</score>

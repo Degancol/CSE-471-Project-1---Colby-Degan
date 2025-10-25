@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Music composed with the aid of ChatGPT -->
+<score bpm="120" beatspermeasure="4">
+
+   <instrument instrument="AdditiveSynth">
+
+      <!-- Measure 1: Bright intro motif -->
+      <note measure="1" beat="1" duration="1" amplitudes="1 .8 .6" note="C5" ADSR=".05 .1 1 .2" vibrato="2.0 0.8"/>
+      <note measure="1" beat="2" duration="1" amplitudes="1 .8 .6" note="E5" ADSR=".05 .1 1 .2" vibrato="2.2 0.7"/>
+      <note measure="1" beat="3" duration="1" amplitudes="1 .8 .6" note="G5" ADSR=".05 .1 1 .2" vibrato="2.4 0.8"/>
+      <note measure="1" beat="4" duration="1" amplitudes="1 .8 .6" note="B5" ADSR=".05 .1 1 .2" vibrato="2.6 0.9"/>
+
+      <!-- Measure 2: Gentle expansion -->
+      <note measure="2" beat="1" duration="2" amplitudes="1 .8 .6" note="A4" ADSR=".1 .1 .9 .3" vibrato="2.0 0.6"/>
+      <note measure="2" beat="1" duration="2" amplitudes="1 .8 .6" note="C5" ADSR=".1 .1 .9 .3" vibrato="2.3 0.6"/>
+      <note measure="2" beat="1" duration="2" amplitudes="1 .8 .6" note="E5" ADSR=".1 .1 .9 .3" vibrato="2.5 0.8"/>
+      <note measure="2" beat="3" duration="2" amplitudes="1 .8 .6" note="G5" ADSR=".05 .05 1 .2" vibrato="2.7 0.9"/>
+
+      <!-- Measure 3: Motion builds up -->
+      <note measure="3" beat="1" duration="4" amplitudes="1 .8 .6" note="F4" ADSR=".15 .1 .9 .4" vibrato="2.0 0.6"/>
+      <note measure="3" beat="1" duration="4" amplitudes="1 .7 .5" note="A4" ADSR=".15 .1 .9 .4" vibrato="2.2 0.7"/>
+      <note measure="3" beat="1" duration="4" amplitudes="1 .7 .5" note="C5" ADSR=".15 .1 .9 .4" vibrato="2.4 0.7"/>
+      <note measure="3" beat="2" duration="1" amplitudes="1 .8 .6" note="D5" ADSR=".05 .05 1 .2" vibrato="2.6 0.8"/>
+      <note measure="3" beat="3" duration="1" amplitudes="1 .8 .6" note="E5" ADSR=".05 .05 1 .2" vibrato="2.8 0.8"/>
+      <note measure="3" beat="4" duration="1" amplitudes="1 .8 .6" note="F5" ADSR=".05 .05 1 .2" vibrato="3.0 0.9"/>
+
+      <!-- Measure 4: Small climax -->
+      <note measure="4" beat="1" duration="4" amplitudes="1 .9 .6" note="G4" ADSR=".2 .1 .9 .4" vibrato="2.1 0.7"/>
+      <note measure="4" beat="1" duration="4" amplitudes="1 .8 .5" note="B4" ADSR=".2 .1 .9 .4" vibrato="2.3 0.8"/>
+      <note measure="4" beat="1" duration="4" amplitudes="1 .8 .5" note="D5" ADSR=".2 .1 .9 .4" vibrato="2.5 0.8"/>
+      <note measure="4" beat="2" duration="1" amplitudes="1 .8 .6" note="G5" ADSR=".05 .05 1 .2" vibrato="2.7 1.0"/>
+      <note measure="4" beat="3" duration="1" amplitudes="1 .8 .6" note="A5" ADSR=".05 .05 1 .2" vibrato="2.9 1.0"/>
+      <note measure="4" beat="4" duration="1" amplitudes="1 .8 .6" note="B5" ADSR=".05 .05 1 .2" vibrato="3.1 1.1"/>
+
+      <!-- Measure 5: Soften and prepare resolution -->
+      <note measure="5" beat="1" duration="4" amplitudes="1 .8 .5" note="E4" ADSR=".3 .2 .7 .6" vibrato="2.0 0.5"/>
+      <note measure="5" beat="1" duration="4" amplitudes="1 .7 .4" note="G4" ADSR=".3 .2 .7 .6" vibrato="2.2 0.5"/>
+      <note measure="5" beat="1" duration="4" amplitudes="1 .6 .4" note="C5" ADSR=".3 .2 .7 .6" vibrato="2.4 0.5"/>
+      <note measure="5" beat="3" duration="1" amplitudes="1 .6 .4" note="E5" ADSR=".1 .2 .6 .6" vibrato="2.5 0.6"/>
+
+      <!-- Measure 6: Resolution and fade -->
+      <note measure="6" beat="1" duration="4" amplitudes="1 .6 .3" note="C4" ADSR=".4 .3 .6 1.2" vibrato="1.8 0.4"/>
+      <note measure="6" beat="1" duration="4" amplitudes="1 .5 .3" note="E4" ADSR=".4 .3 .6 1.2" vibrato="2.0 0.4"/>
+      <note measure="6" beat="1" duration="4" amplitudes="1 .5 .2" note="G4" ADSR=".4 .3 .6 1.2" vibrato="2.2 0.3"/>
+      <note measure="6" beat="3" duration="2" amplitudes="1 .3 .2" note="C5" ADSR=".3 .4 .4 2.0" vibrato="2.3 0.2"/>
+
+   </instrument>
+
+</score>
