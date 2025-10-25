@@ -14,8 +14,8 @@ Example:
 ```
 
 Where:
-*"bpm" is the number of beats per minute
-*"beatspermeasure" is the bumber of beats that occur each measure
+* "bpm" is the number of beats per minute
+* "beatspermeasure" is the bumber of beats that occur each measure
 
 "measure" is the measure the note is played in
 
