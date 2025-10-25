@@ -3,7 +3,6 @@ This is my submission for Project 1 for Michigan State University's CSE 471, in 
 
 ## score File Format:
 Example:
-no
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <score bpm="120" beatspermeasure="4">
@@ -15,8 +14,11 @@ no
 ```
 
 Where:
+
 "bpm" is the number of beats per minute
+
 "beatspermeasure" is the bumber of beats that occur each measure
+
 "measure" is the measure the note is played in
 "beat" is the beat the note is played in the note's measure
 "duration" is how long the note is played for
