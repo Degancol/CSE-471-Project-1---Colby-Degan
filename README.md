@@ -16,6 +16,7 @@ Example:
 Where:
 * "bpm" is the number of beats per minute
 * "beatspermeasure" is the bumber of beats that occur each measure
+* "instrument" is the type of instrument or synthesizer to use
 * "measure" is the measure the note is played in
 * "beat" is the beat the note is played in the note's measure
 * "duration" is how long the note is played for
