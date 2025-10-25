@@ -9,7 +9,7 @@ Example:
       <note measure="1" beat="1" duration="1" amplitudes="1 .7 .5" note="C5" ADSR=".1 .1 .8 .3" vibrato="2.0 0.6"/>
       <!-- Notes are continued in the same format as the previous note -->
     </instrument>
-</score>```
+</score>'''
 
 Where:
 "bpm" is the number of beats per minute
