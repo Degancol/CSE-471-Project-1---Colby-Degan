@@ -33,3 +33,6 @@ Where:
 * "vibrato" defines the vibrato effect (periodic pitch modulation)
   - The first value is the rate of the vibrato
   - The second value is the frequency of the vibrato
+
+## Additive Synthesis Component
+
