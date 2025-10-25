@@ -20,7 +20,7 @@ Where:
 * "beat" is the beat the note is played in the note's measure
 * "duration" is how long the note is played for
 * "amplitudes" are the relative amplitudes of the harmonic components used in additive synthesis
-- The first value is the fundamental frequency
+  - The first value is the fundamental frequency
       
       The second value is the 2nd harmonic
       
