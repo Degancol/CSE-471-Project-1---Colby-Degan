@@ -3,7 +3,7 @@ This is my submission for Project 1 for Michigan State University's CSE 471, in 
 
 ## score File Format:
 Example:
-<?xml version="1.0" encoding="utf-8"?>
+"<?xml version="1.0" encoding="utf-8"?>
 <score bpm="120" beatspermeasure="4">
    <instrument instrument="AdditiveSynth">
       <note measure="1" beat="1" duration="1" amplitudes="1 .7 .5" note="C5" ADSR=".1 .1 .8 .3" vibrato="2.0 0.6"/>
