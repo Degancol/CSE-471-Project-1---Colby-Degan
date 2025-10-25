@@ -34,6 +34,8 @@ Where:
   - The first value is the rate of the vibrato
   - The second value is the frequency of the vibrato
 
+The music used in this project were created with the aid of ChatGPT.
+
 ## Additive Synthesis Component
 The applied additive synthesizer is based on the principle of additive synthesis, which works by adding together sinusoids to make a sound. In this implementation, up to eight harmonics are generated, each with controllable amplitudes that define the harmonic spectrum of the sound. These harmonics are summed, and their phase angles are adjusted based on the fundamental frequency and an applied vibrato effect. The vibrato is achieved by modulating the instantaneous pitch using a low-frequency sine wave, controlled by parameters for rate and frequency. To prevent pops and ensure smoothness at the start and end of each note, the additive synthesizer applies a fade-in and fade-out envelope around the waveform's beginning and end. The additive synthesizer also implements an ADSR (Attack, Decay, Sustain, Release) envelope, which scales the amplitude of the generated waveform over time to shape the note's contour. Additionally, cross-fading is implemented to allow blending between overlapping notes. The additive synthesizer can interpret score (XML) note definitions and can read attributes such as frequency, duration, harmonic amplitudes, ADSR parameters, and vibrato settings.
 
