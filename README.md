@@ -16,16 +16,11 @@ Example:
 Where:
 * "bpm" is the number of beats per minute
 * "beatspermeasure" is the bumber of beats that occur each measure
-
-"measure" is the measure the note is played in
-
-"beat" is the beat the note is played in the note's measure
-
-"duration" is how long the note is played for
-
-"amplitudes" are the relative amplitudes of the harmonic components used in additive synthesis
-
-      The first value is the fundamental frequency
+* "measure" is the measure the note is played in
+* "beat" is the beat the note is played in the note's measure
+* "duration" is how long the note is played for
+* "amplitudes" are the relative amplitudes of the harmonic components used in additive synthesis
+- The first value is the fundamental frequency
       
       The second value is the 2nd harmonic
       
