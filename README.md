@@ -20,13 +20,21 @@ Where:
 "beatspermeasure" is the bumber of beats that occur each measure
 
 "measure" is the measure the note is played in
+
 "beat" is the beat the note is played in the note's measure
+
 "duration" is how long the note is played for
+
 "amplitudes" are the relative amplitudes of the harmonic components used in additive synthesis
+
       The first value is the fundamental frequency
+      
       The second value is the 2nd harmonic
+      
       The third value is the 3rd harmonic
+      
 "note" is the pitch of the note
+
 "ADSR" describes how the volume of the note changes over time
       The first value is the attack (time to reach full volume)
       The second value is the decay (time to fall from peak to sustain level)
